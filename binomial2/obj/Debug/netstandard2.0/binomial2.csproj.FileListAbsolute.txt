@@ -1,0 +1,14 @@
+/Users/kamilniewczas/Projects/binomial2/binomial2/bin/Debug/netstandard2.0/binomial2.deps.json
+/Users/kamilniewczas/Projects/binomial2/binomial2/bin/Debug/netstandard2.0/binomial2.dll
+/Users/kamilniewczas/Projects/binomial2/binomial2/bin/Debug/netstandard2.0/ref/binomial2.dll
+/Users/kamilniewczas/Projects/binomial2/binomial2/bin/Debug/netstandard2.0/binomial2.pdb
+/Users/kamilniewczas/Projects/binomial2/binomial2/obj/Debug/netstandard2.0/binomial2.csprojAssemblyReference.cache
+/Users/kamilniewczas/Projects/binomial2/binomial2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kamilniewczas/Projects/binomial2/binomial2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kamilniewczas/Projects/binomial2/binomial2/obj/Debug/netstandard2.0/binomial2.csproj.CoreCompileInputs.cache
+/Users/kamilniewczas/Projects/binomial2/binomial2/obj/Debug/netstandard2.0/binomial2.AssemblyInfoInputs.cache
+/Users/kamilniewczas/Projects/binomial2/binomial2/obj/Debug/netstandard2.0/binomial2.AssemblyInfo.cs
+/Users/kamilniewczas/Projects/binomial2/binomial2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kamilniewczas/Projects/binomial2/binomial2/obj/Debug/netstandard2.0/binomial2.dll
+/Users/kamilniewczas/Projects/binomial2/binomial2/obj/Debug/netstandard2.0/ref/binomial2.dll
+/Users/kamilniewczas/Projects/binomial2/binomial2/obj/Debug/netstandard2.0/binomial2.pdb
